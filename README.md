@@ -1,3 +1,1 @@
-# angular-kmzabs
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-kmzabs)
+hosted on https://angular-web-store-try3.firebaseapp.com/
